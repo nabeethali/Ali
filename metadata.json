@@ -1,0 +1,5 @@
+{
+  "name": "Weather-Based Activity Classifier",
+  "description": "An interactive machine learning tool that uses a Decision Tree algorithm to suggest indoor or outdoor activities based on real-time or manual temperature and humidity inputs, featuring AI-powered problem analysis.",
+  "requestFramePermissions": []
+}
